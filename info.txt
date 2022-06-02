@@ -1,0 +1,22 @@
+Technoglogies used:
+-------------------------------
+HTML
+CSS
+Sass CSS
+Javascript
+
+
+
+
+tutorial followed : 
+---------------------------------
+
+https://www.youtube.com/watch?v=gXLjWRteuWI
+
+
+
+Notes-
+-------------------------
+
+Semantic html tags
+mobile first css
